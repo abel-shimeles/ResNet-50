@@ -2,7 +2,7 @@
 
 This repo presents the ResNet algorithm from He et al. (2015).
 
-* -Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun - [Deep Residual Learning for Image Recognition (2015)](https://arxiv.org/abs/1512.03385)
+* Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun - [Deep Residual Learning for Image Recognition (2015)](https://arxiv.org/abs/1512.03385)
 
 
 The model is 50 layers of convolutional layer trained on the SIGNS dataset. The model has 99% accuracy in the training set and 91% accuracy in the dev/test set.
