@@ -25,4 +25,4 @@ The SIGNS dataset used in training and testing the model:
 git clone https://github.com/abel-shimeles/ResNet-50.git
 cd ResNet-50
 ```
-2. Run the [ResNet-50](ResNet - 50.ipynb) file.
+2. Run the [ResNet-50.ipynb](ResNet-50.ipynb) file.
