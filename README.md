@@ -18,3 +18,11 @@ The SIGNS dataset used in training and testing the model:
 
 
 ![SIGNS dataset](images/signs_data.png?raw=true "SIGNS dataset")
+
+## Setup
+1. Clone this repository
+```shell
+git clone https://github.com/abel-shimeles/ResNet-50.git
+cd ResNet-50
+```
+2. Run the [ResNet-50]( ResNet-50.ipynb) file.
